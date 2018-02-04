@@ -1,10 +1,10 @@
-## Lifeboat Scenarios
+## Escenarios de bote salvavidas
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+El hecho de que UPB solo valide teorías morales lógicamente consistentes no significa que no puede haber circunstancias imaginables bajo las cuales podemos elegir actuar en contra de los principios de esa teoría.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Por ejemplo, si aceptamos la validez universal de los derechos de propiedad, romper una ventana y saltar al apartamento de alguien sin permiso sería una violación de sus derechos de propiedad. Sin embargo, si estuviéramos colgando de un asta de una bandera afuera de la ventana de un departamento, ya punto de caer en la ruina, pocos de nosotros nos negaríamos a patear la ventana y saltar a la seguridad para obedecer un principio abstracto.
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+En el mundo real, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
 
 This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
 
@@ -49,6 +49,8 @@ In ethical arguments, if I am asked whether I would steal an apple rather than s
 5. Thus what is good for the individual is the ultimate moral standard.
 
 This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+
+hasta aqui
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
